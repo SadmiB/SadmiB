@@ -44,6 +44,7 @@ spec:
   - Security
   - Problem solving
   - Terraform
+  - GitlabCI
   languages:
   - English
   - French
