@@ -25,9 +25,13 @@ spec:
   - title: DevOps Team Lead
     year: 2021
     company: Evercam - Construction Cameras
+  - title: Cloud DevOps Engineer
+    year: 2022
+    company: Peter Park System Gmbh
   certifications:
   - Certified Kubernetes Administrator
   - Microsoft Certified Azure Fundamentals
+  - Promtheus Certified Associate
   skills:
   - Kubernetes
   - Docker
@@ -39,6 +43,7 @@ spec:
   - Monitoring
   - Security
   - Problem solving
+  - Terraform
   languages:
   - English
   - French
