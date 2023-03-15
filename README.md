@@ -3,7 +3,7 @@ apiVersion: v1
 kind: Engineer
 metadata:
   name: Sadmi Bouhafs
-  title: DevOps Team Lead
+  title: DevOps Engineer
   country: Algeria
 spec:
   education:
