@@ -31,7 +31,7 @@ spec:
   certifications:
   - Certified Kubernetes Administrator
   - Microsoft Certified Azure Fundamentals
-  - Promtheus Certified Associate
+  - Prometheus Certified Associate
   skills:
   - Kubernetes
   - Docker
